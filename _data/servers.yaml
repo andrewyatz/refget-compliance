@@ -1,7 +1,7 @@
-refget-server-perl:
-  name: Refget Reference Implementation
-  site: https://refget.herokuapp.com/
-  github: https://github.com/andrewyatz/refget-server-perl
+# refget-server-perl:
+#   name: Refget Reference Implementation
+#   site: https://refget.herokuapp.com/
+#   github: https://github.com/andrewyatz/refget-server-perl
 ena-server:
   name: CRAM Reference Registry
   site: https://www.ebi.ac.uk/ena/cram
