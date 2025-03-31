@@ -2,6 +2,9 @@
 layout: default
 title: Refget Compliance Report
 ---
+## Notice
+
+The following site tested the compliance of refget v1 implementations. This site is no longer maintained. To find out more about refget consult our [public GA4GH product page](https://www.ga4gh.org/product/refget/), [refget Sequences specification](https://ga4gh.github.io/refget/sequences/) and new product [refget sequence collections](https://ga4gh.github.io/refget/seqcols/).
 
 ## Results
 <table class="primary">
